@@ -1,0 +1,14 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p {
+    color: 	(49,49,120);
+    background-color: (207,207,232);
+}
+
+.main
+{
+    color: pink;
+}
