@@ -1,14 +1,50 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    size: 24px;
+    color: white;
+    background-color: blueviolet;
 }
 
-p {
-    color: 	(49,49,120);
-    background-color: (207,207,232);
-}
-
-.main
+.mainText
 {
-    color: pink;
+    color: 	rgb(49,49,120);
+    background-color: rgb(207,207,232);
+    border: 2px solid rgb(255 84 104);
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.mainText p
+{
+    color: rgb(78, 2, 2);
+}
+
+#mainTitle
+{
+    size: 32px;
+    color: rgb(6, 6, 102);
+}
+
+#dashed
+{
+    text-decoration: line-through;
+}
+
+.highlight
+{
+    background-color: yellow;
+    color: black;
+}
+
+.largeText
+{
+    size: 32px;
+}
+
+p.Mainbody
+{
+    text-decoration: underline;
 }
